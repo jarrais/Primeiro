@@ -5,3 +5,5 @@ mean(x)
 sum(x)
 
 sum(x^2)
+
+x/10
